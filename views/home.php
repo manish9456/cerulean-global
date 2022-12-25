@@ -17,7 +17,7 @@
           towards all those people who are going through
           this hardship and defeat this pandemic with a spirit of global togetherness.
         </p> -->
-        <img src="assets/img/christmas.gif" class="d-block modal-img">
+        <img src="assets/img/christmas-2023.gif" class="d-block modal-img">
 
       </div>
     </div> <!-- END Modal content -->
