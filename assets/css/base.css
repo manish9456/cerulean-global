@@ -501,8 +501,8 @@ a.squrcle {
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 200px; /* Location of the box */
+  z-index: 11; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -520,7 +520,7 @@ a.squrcle {
   margin: auto;
   padding: 10px;
   border: 1px solid #888;
-  width: 800px;
+  width: 500px;
   max-width: 90%;
 }
 
