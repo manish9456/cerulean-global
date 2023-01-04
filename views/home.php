@@ -17,8 +17,11 @@
           towards all those people who are going through
           this hardship and defeat this pandemic with a spirit of global togetherness.
         </p> -->
-        <img src="assets/img/christmas-2023.gif" class="d-block modal-img">
-
+        <!-- <img src="assets/img/christmas-2023.gif" class="d-block width-100"> -->
+        <video id="background-video-hny" class="width-100" autoplay="autoplay" loop muted
+          poster="assets/img/happy_new_year_2023_img.jpg">
+          <source src="assets/happy_new_year_2023.mp4" type="video/mp4">
+        </video>
       </div>
     </div> <!-- END Modal content -->
   </div> <!-- END The Modal -->
