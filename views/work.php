@@ -9,14 +9,14 @@
   </nav>
 
   <div class="hero-block hblock bg-img d-flex align-items-center" style="position:relative;">
-    <video id="background-video" autoplay loop poster="assets/img/work-1.jpg">
+    <video id="background-video" autoplay loop muted poster="assets/img/work-1.jpg">
       <source src="assets/work.mp4" type="video/mp4">
     </video>
     <div class="container">
       <div class="row">
-        <!-- <div class="col text-center fc-white">
+        <div class="col text-center fc-white">
           <h2>Brewing Creativity everyday!</h2>
-        </div> -->
+        </div>
       </div>
     </div><!-- bg -->
   </div>
